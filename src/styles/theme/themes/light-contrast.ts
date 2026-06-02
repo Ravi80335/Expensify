@@ -12,7 +12,7 @@ const lightContrastTheme = {
     buttonIcon: colors.productLight900,
     mentionText: colors.blue700,
     textLight: colors.productLight900,
-    iconColorfulBackground: colors.yellow800,
+    iconColorfulBackground: colors.ivory,
     receiptPlaceholderPlus: colors.green800,
 } satisfies ThemeColors;
 

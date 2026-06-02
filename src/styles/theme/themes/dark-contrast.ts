@@ -12,7 +12,7 @@ const darkContrastTheme = {
     buttonIcon: colors.productDark900,
     mentionText: colors.blue700,
     textLight: colors.productLight900,
-    iconColorfulBackground: colors.yellow800,
+    iconColorfulBackground: colors.ivory,
     mentionBG: colors.blue100,
     ourMentionBG: colors.green100,
     ourMentionText: colors.green700,
